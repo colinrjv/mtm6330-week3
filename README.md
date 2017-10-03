@@ -1,6 +1,6 @@
 # mtm6330-week3
 Example GitHub Repo
 
-**Prof. Robert McKenney**
+**Student Colin Vautour**
 
-<replace this with your student name and section number>
+<Vaut0007 030>
